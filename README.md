@@ -26,3 +26,10 @@ A sleek and customizable **Password Generator** built using **HTML**, **CSS**, a
 - Vanilla JavaScript (ES6)
 
 ---
+
+## 🚀 Live Demo
+
+[https://priyanshubisht3.github.io/Password-Generator/
+](#) <!-- Replace with GitHub Pages link if hosted -->
+
+
