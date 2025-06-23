@@ -26,14 +26,3 @@ A sleek and customizable **Password Generator** built using **HTML**, **CSS**, a
 - Vanilla JavaScript (ES6)
 
 ---
-
-## 📷 Preview
-
-> Add a live preview GIF or image here  
-> Example:  
-> ![Demo GIF](./assets/demo.gif)
-
----
-
-## 📂 Folder Structure
-
